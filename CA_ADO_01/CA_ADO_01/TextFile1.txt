@@ -1,0 +1,19 @@
+﻿Create Procedure spGetProductsByName
+
+@ProductName nvarchar(Max)
+as
+Begin
+ Select * from Product
+ where Name like @ProductName + '%'
+End
+
+
+CREATE PROCEDURE storedata
+        @id     int,    
+       @pname     NVARCHAR(Max), 
+       @psalary    float
+               
+AS 
+BEGIN 
+  INSERT INTO dbo.Employees( Id, Name ,Salary) VALUES ( @id, @pname , @psalary )
+  End
