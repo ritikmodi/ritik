@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "InMemory_CRUD_Try1/1.0.0": {
+        "runtime": {
+          "InMemory_CRUD_Try1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "InMemory_CRUD_Try1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

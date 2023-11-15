@@ -1,0 +1,14 @@
+C:\Data\CDAC .NET\InMemory_CRUD_Try1\bin\Debug\net7.0\InMemory_CRUD_Try1.exe
+C:\Data\CDAC .NET\InMemory_CRUD_Try1\bin\Debug\net7.0\InMemory_CRUD_Try1.deps.json
+C:\Data\CDAC .NET\InMemory_CRUD_Try1\bin\Debug\net7.0\InMemory_CRUD_Try1.runtimeconfig.json
+C:\Data\CDAC .NET\InMemory_CRUD_Try1\bin\Debug\net7.0\InMemory_CRUD_Try1.dll
+C:\Data\CDAC .NET\InMemory_CRUD_Try1\bin\Debug\net7.0\InMemory_CRUD_Try1.pdb
+C:\Data\CDAC .NET\InMemory_CRUD_Try1\obj\Debug\net7.0\InMemory_CRUD_Try1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Data\CDAC .NET\InMemory_CRUD_Try1\obj\Debug\net7.0\InMemory_CRUD_Try1.AssemblyInfoInputs.cache
+C:\Data\CDAC .NET\InMemory_CRUD_Try1\obj\Debug\net7.0\InMemory_CRUD_Try1.AssemblyInfo.cs
+C:\Data\CDAC .NET\InMemory_CRUD_Try1\obj\Debug\net7.0\InMemory_CRUD_Try1.csproj.CoreCompileInputs.cache
+C:\Data\CDAC .NET\InMemory_CRUD_Try1\obj\Debug\net7.0\InMemory_CRUD_Try1.dll
+C:\Data\CDAC .NET\InMemory_CRUD_Try1\obj\Debug\net7.0\refint\InMemory_CRUD_Try1.dll
+C:\Data\CDAC .NET\InMemory_CRUD_Try1\obj\Debug\net7.0\InMemory_CRUD_Try1.pdb
+C:\Data\CDAC .NET\InMemory_CRUD_Try1\obj\Debug\net7.0\InMemory_CRUD_Try1.genruntimeconfig.cache
+C:\Data\CDAC .NET\InMemory_CRUD_Try1\obj\Debug\net7.0\ref\InMemory_CRUD_Try1.dll
